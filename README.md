@@ -1,0 +1,1 @@
+# WEEK1-Automated-Garbage-Classification-Using-CNN-for-Sustainable-Waste-Management
