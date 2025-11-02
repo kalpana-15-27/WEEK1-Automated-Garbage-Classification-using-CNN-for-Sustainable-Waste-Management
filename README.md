@@ -601,4 +601,14 @@ This project demonstrates how AI can solve real-world environmental challenges. 
 **Status**: ✅ Model Trained | ⏳ Improvements Planned  
 **Maintained by:** kalpana-15-27
 
+### 📊 Project Stats
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10%2B-orange)
+![Dataset](https://img.shields.io/badge/Dataset-2.5K%2B%20Images-yellow)
+![Waste Classes](https://img.shields.io/badge/Waste%20Classes-10-brightgreen)
+![Accuracy](https://img.shields.io/badge/Validation%20Accuracy-68.83%25-success)
+![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen)
+
+
 **Made with ❤️ for Environmental Sustainability**
