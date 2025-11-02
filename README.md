@@ -600,4 +600,5 @@ This project demonstrates how AI can solve real-world environmental challenges. 
 **Last Updated**: November 2, 2024  
 **Status**: ✅ Model Trained | ⏳ Improvements Planned  
 **Maintained by:** kalpana-15-27
+
 **Made with ❤️ for Environmental Sustainability**
