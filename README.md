@@ -547,6 +547,12 @@ pip install -r requirements.txt
 
 ---
 
+
+## 🧠 Download Trained Model
+You can download the trained CNN model (.h5) from Google Drive:
+
+[📥 Download Model](https://drive.google.com/file/d/1_YgwVrWHXddXz0lQ3gJ_mxr9-xlu8yF0/view?usp=drive_link)
+
 ## 📞 Support & Troubleshooting
 
 ### Common Issues
